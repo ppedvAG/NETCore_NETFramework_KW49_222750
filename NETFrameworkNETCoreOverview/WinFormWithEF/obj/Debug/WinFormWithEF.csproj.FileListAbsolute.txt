@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\bin\Debug\WinFormWithEF.exe.config
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\bin\Debug\WinFormWithEF.exe
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\bin\Debug\WinFormWithEF.pdb
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\bin\Debug\EntityFramework.dll
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\bin\Debug\EntityFramework.xml
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.csproj.SuggestedBindingRedirects.cache
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.Form1.resources
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.Properties.Resources.resources
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.csproj.GenerateResource.cache
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.csproj.CopyComplete
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.exe
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\WinFormWithEF\obj\Debug\WinFormWithEF.pdb

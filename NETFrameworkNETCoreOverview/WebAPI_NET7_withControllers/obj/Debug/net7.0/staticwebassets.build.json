@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LfaUhXOTxms75Bwg23N2NarY6dMkaimqATWK9updWJk=",
+  "Source": "WebAPI_NET7_withControllers",
+  "BasePath": "_content/WebAPI_NET7_withControllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tnLB6CDfHxn+9MMpgo85N7EKYYXHdpj7aVWk8BIT/oo=",
+  "Source": "WebAPI_NET7_Minimal",
+  "BasePath": "_content/WebAPI_NET7_Minimal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
