@@ -1,0 +1,33 @@
+Native Apps (Windows-,Linux- oder Mac-Applicationen)
+
+.NET (C# /VB.NET)
+ -> WinForms 
+ -> WPF 
+ -> Maui
+
+ (Handy Systeme)
+ -> Xamarin
+ -> UWP
+
+
+
+
+JavaScript will Desktop: 
+
+- PWA (Progressive Web Applications)
+	- Werden via Webseite angeboten, die Web-App als Desktop-App zu verwenden, mit folgenden Features
+		-> Offline - Fähigkeit -> (intern wird ein ServiceWorker.js verwendet)
+
+- Electron.js ->  Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+
+
+
+Gegentrend zu JavaScript:
+
+- WebAssembly 1.1 -> bietet allen Programmiersprachen die Möglichkeit an, Binär-Kompilierten Code in den WebAssembly - Sandbox eines "Major-Browser" zu laden. 
+
+
+- Microsoft hat z.B. Blazor-WebAssembly -> WebAssembly 1.1 + die Möglichkeit PWA App zu schreiben
+- WinForms + WPF -> WebView 2 Control kann HTMLs (CSS) anbieten 
+

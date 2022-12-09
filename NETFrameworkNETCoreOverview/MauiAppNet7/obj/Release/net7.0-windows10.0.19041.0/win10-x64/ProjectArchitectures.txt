@@ -1,0 +1,1 @@
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\MauiAppNet7\MauiAppNet7.csproj;x64

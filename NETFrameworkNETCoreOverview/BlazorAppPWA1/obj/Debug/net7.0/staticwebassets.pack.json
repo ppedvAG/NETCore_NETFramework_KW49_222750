@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\obj\\Debug\\net7.0\\build-gz\\Q5oS+4S+.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorAppPWA1.styles.css",
+      "PackagePath": "staticwebassets\\BlazorAppPWA1.styles.css"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\NETCore_NETFramework_KW49_222750\\NETFrameworkNETCoreOverview\\BlazorAppPWA1\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorAppPWA1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorAppPWA1.props",
+      "PackagePath": "build\\BlazorAppPWA1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAppPWA1.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAppPWA1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorAppPWA1.props",
+      "PackagePath": "buildTransitive\\BlazorAppPWA1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

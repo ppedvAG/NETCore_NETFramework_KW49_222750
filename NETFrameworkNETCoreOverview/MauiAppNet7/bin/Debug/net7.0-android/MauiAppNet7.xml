@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiAppNet7</name>
+    </assembly>
+    <members>
+        <member name="M:MauiAppNet7.Services.TimeService.GetCurrentTime">
+            <summary>
+            Soll die Uhrzeit zurückgeben, wann der Konstruktor von TimeService aufgerufen wird
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+    </members>
+</doc>

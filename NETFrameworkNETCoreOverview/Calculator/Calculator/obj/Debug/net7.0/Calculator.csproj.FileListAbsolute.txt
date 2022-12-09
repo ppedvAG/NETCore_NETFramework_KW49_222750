@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Aktueller Kurs\NETCore_NETFramework_KW49_222750\NETFrameworkNETCoreOverview\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
